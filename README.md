@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/ec/c3/88/ecc3882e29654a291f8824494979145b.gif)
+![MasterHead](https://i.pinimg.com/originals/ec/c3/88/ecc3882e29654a291f8824494979145b.gif)
 <h1 align="center">Hi 👋, I'm Kanak Chandra</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
